@@ -1,0 +1,70 @@
+<div class="chromewords"><img src="imgs/ysl.png"></div>
+        <div></div>
+        <div class="chromewords">
+          Yves Saint Laurent SAS, also known as Saint Laurent and YSL, is a French luxury fashion house 
+          founded in 1962 by Yves Saint Laurent and his partner, Pierre Bergé. During the 1960s and 1970s, 
+          YSL popularized the beatnik look, safari jackets, tight pants, and thigh-high boots. In 1966, 
+          YSL debuted Le Smoking, a tuxedo suit for women. In an attempt to democratize fashion, YSL began 
+          producing ready-to-wear in 1966, with its launch of Rive Gauche, and is considered to be the 
+          first to popularize the concept.
+          <div class="chromewords"> YSL Founder, Yves Saint Laurent. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl1.png"></div>
+        <div class="chromewords">
+          In the December of 1953 in Paris, Saint Laurent met Michel de Brunhoff, who was then editor-in-chief 
+          of the French Vogue magazine and a connection to his father. Michel, known by some as a considerate 
+          person who encouraged new talent, was impressed by the sketches that Saint Laurent brought with him 
+          and suggested he should intend to become a fashion designer. Saint Laurent eventually considered a 
+          course of study at the Chambre Syndicale de la Haute Couture, the council which regulates the haute 
+          couture industry and provides training to its employees. 
+          <div class="chromewords"> Michel de Brunhoff(Left) and Yves Saint Laurent(Right) at Yves' debut at Dior. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl2.jpg"></div>
+        <div class="chromewords">
+          Saint Laurent followed his advice and, left Oran for Paris after graduation, began his studies there and 
+          eventually graduated as a star pupil. Later, that same year, he entered the International Wool 
+          Secretariat competition again and won, beating out his friend Fernando Sánchez and young German 
+          student Karl Lagerfeld. After his win, Yves showed some sketches to Michel, who recognized close 
+          similarities to sketches he had been shown that morning by Christian Dior. Knowing that Dior had created 
+          the sketches that morning and that the young man could not have seen them, de Brunhoff sent him to Dior,
+          who hired him on the spot.
+          <div class="chromewords"> YSL trapeze dress for Dior, 1958. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl3.jpg"></div>
+        <div class="chromewords">
+          Although Dior recognised his talent immediately, Saint Laurent spent his first year at the House of Dior 
+          on mundane tasks, such as decorating the studio and designing accessories. Eventually he was allowed to 
+          submit sketches for the couture collection. With every passing season, more of his sketches were accepted 
+          by Dior. In August 1957, Dior met with Saint Laurent's mother to tell her that he had chosen Saint Laurent 
+          to succeed him as a designer.
+          <div class="chromewords">YSL 2020 Fall Collection. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl4.png"></div>
+        <div class="chromewords">
+          In 1960, Saint Laurent found himself conscripted to serve in the French Army during the Algerian War of 
+          Independence. Neri Karra writes that there was speculation at the time that Marcel Boussac, the owner of 
+          the House of Dior and a powerful press baron, had put pressure on the government not to conscript Saint 
+          Laurent in 1958 and 1959, but after the disastrous Fall 1958 season, reversed course and asked that the 
+          designer be conscripted so that he could be replaced. 
+          <div class="chromewords"> Yves Saint Laurent Ambassador and K-Pop NewJeans member Danielle Marsh. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl5.jpg"></div>
+        <div class="chromewords">
+          Saint Laurent was in the military for 20 days before 
+          the stress of hazing by fellow soldiers led to him being admitted to a military hospital, where he received 
+          news that he had been fired from Dior, to be replaced by Marc Bohan. This exacerbated his condition, and he 
+          was transferred to Val-de-Grâce military hospital, where he was given large doses of sedatives and psychoactive 
+          drugs and subjected to electroshock therapy. Saint Laurent himself traced the origin of both his mental 
+          problems and his drug addictions to this time in hospital.
+          <div class="chromewords">YSL 2022 Spring/Summer Collection. </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl6.png"></div>
+        <div class="chromewords">
+          Saint Laurent died on 1 June 2008 of brain cancer at his residence in Paris. According to The New York Times, 
+          a few days prior, he and Bergé had been joined in a same-sex civil union known as a Pacte civil de solidarité (PACS) 
+          in France. When Saint Laurent was diagnosed as terminal, with only one or two weeks left to live, Bergé and the 
+          doctor mutually decided that it would be better for him not to know of his impending death. Bergé said, "I have 
+          the belief that Yves would not have been strong enough to accept that."
+          <div class="chromewords"> Yves Saint Laurent(Left) with Pierre Bergé(Right). </div>
+        </div>
+        <div class="pageimg"><img src="imgs/ysl7.png"></div>

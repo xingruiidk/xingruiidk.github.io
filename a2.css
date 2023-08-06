@@ -242,6 +242,7 @@ height: 90%;
   text-align: center;
   width: 100%;
 }
+/*for image link*/
 a
 {
   color: black;
@@ -592,6 +593,32 @@ height: 100%;
   width: 85%;
   transform: translate(-3%, -3%);
 }
+/*qrcode*/
+.qrcd
+{
+  padding: 2vw;
+  background-color: rgb(186, 126, 255);
+  margin-left: 27vw;
+  border-radius: 3vw;
+  height: auto;
+  width: 20vw;
+}
+/*qr code img*/
+.qrcd img
+{
+  height: 40%;
+  width: 40%;
+}
+/*qr code words*/
+.qrcdword
+{
+  font-size: 1vw;
+  float: right;
+  width: 45%;
+  padding-top: 20%;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 /*big*/
 @media screen and (min-width: 800px) 
 {
@@ -602,28 +629,62 @@ height: 100%;
 {
   #menu
   {
-    margin-left: 0.6vw;
+    margin-left: 0vw;
+    left: 0;
     top: 2vw;
+    padding: 0;
   } 
+  #menu img
+  {
+    width: 10vw;
+    height: 5vw;
+  }
   #direc
   {
     margin-left: 0.8vw;
-    margin-top: 2vw;
+    margin-top: 5vw;
+    width: 12vw;
+    height: 4vw;
     display: flex;
     justify-content: center;
     align-items: center;
-  } 
+  }
+  #direc img
+  {
+    width: 14vw;
+    height: 6vw;
+  }
   #page8btn
   {
-    margin-top: 10vw
+    border: 0;
+    padding: 0;
+    margin-top: 12vw;
+  }
+  #page8btn img
+  {
+    width: 10vw;
+    height: 5vw;
+  }
+  #page1btn,
+  #page2btn,
+  #page3btn,
+  #page4btn,
+  #page5btn,
+  #page6btn
+  {
+    margin-top: 5vw;
+    width: 100%;
+    height: 20%;
+  }
+  #page7btn
+  {
+    margin-top: 5vw;
+    width: 15vw;
+    height: 7vw;
   }
   nav ul li 
   {
     margin-top: 1.5vw;
-  }
-  #page8btn
-  {
-    margin-top: 8vw
   }
   .page
   {
@@ -631,6 +692,7 @@ height: 100%;
   }
   nav ul
   {
+    padding: 0;
     margin-top: 2vw;
   }
   .pagegrid
@@ -643,6 +705,7 @@ height: 100%;
   }
   .chromewords
   {
+    font-size: 4vw;
     padding-left: 0vw;
   }
   .pageimg
@@ -651,6 +714,7 @@ height: 100%;
   }
   .balenciwords
   {
+    font-size: 4vw;
     padding: auto;
   }
   .homemiddle
@@ -660,6 +724,33 @@ height: 100%;
   .brand
   {
     margin-left: 8vw;
+  }
+  .homepagewords
+  {
+    font-size: 4vw;
+  }
+  .app h1
+  {
+    font-size: 4vw;
+  }
+  #question
+  {
+    font-size: 4vw;
+  }
+  .qrcd
+  {
+    width: 40vw;
+    margin-left: 17.5vw;
+  }
+  .btn
+  {
+    height: 8vw;
+    font-size: 2vw;
+  }
+  .qrcdword
+  {
+    font-size: 4vw;
+    padding-top: 1vw;
   }
 }
   

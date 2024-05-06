@@ -90,6 +90,15 @@
         // performance, uncomment the following line:
         // config.devicePixelRatio = 1;
 
+      } else if (/iPad|Android|tablet/i.test(navigator.userAgent)) {
+        // Tablet style: fill the whole browser client area with the game canvas:
+
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+        container.className = "unity-tablet";
+        canvas.className = "unity-tablet";
 
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
